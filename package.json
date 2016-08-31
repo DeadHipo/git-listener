@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DeadHipo/git-listener/issues"
   },
-  "homepage": "https://github.com/DeadHipo/git-listener#readme"
+  "homepage": "https://github.com/DeadHipo/git-listener#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
