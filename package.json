@@ -11,10 +11,25 @@
     "url": "git+ssh://git@github.com/DeadHipo/git-listener.git"
   },
   "author": "NearlyDeadHipo",
+  "contributors": [{
+    "name": "Belkovsky Alexsander",
+    "url": "https://vk.com/id4375519"
+  }],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DeadHipo/git-listener/issues"
   },
+  "keywords": [
+    "git",
+    "github",
+    "bitbucket",
+    "deploy",
+    "auto-deploy",
+    "pull",
+    "clone",
+    "fetch",
+    "auto"
+  ],
   "homepage": "https://github.com/DeadHipo/git-listener#readme",
   "dependencies": {
     "express": "^4.14.0"
