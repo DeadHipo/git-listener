@@ -1,6 +1,6 @@
 {
   "name": "git-listener",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Auto deploy from git",
   "main": "index.js",
   "scripts": {
