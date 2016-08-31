@@ -1,13 +1,11 @@
 #!/bin/bash
-FILE="$2/$3/.git"
-
-echo "$FILE"
+FILE="$2/$3"
 
 if [ -e "$FILE" ]; then
-    echo "Repo exists"
+    cd "$3"
     git pull origin $4
-else 
-	echo "Repo not exists"
+else
+	cd "$2"
     git clone $1
     exit 0
-fi 
+fi
