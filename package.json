@@ -1,6 +1,6 @@
 {
   "name": "git-listener",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Auto deploy from git",
   "main": "index.js",
   "scripts": {
@@ -11,10 +11,12 @@
     "url": "git+ssh://git@github.com/DeadHipo/git-listener.git"
   },
   "author": "NearlyDeadHipo",
-  "contributors": [{
-    "name": "Belkovsky Alexsander",
-    "url": "https://vk.com/id4375519"
-  }],
+  "contributors": [
+    {
+      "name": "Belkovsky Alexsander",
+      "url": "https://vk.com/id4375519"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DeadHipo/git-listener/issues"
