@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/git-listener.png?downloads=true&downloadRank=true)](https://nodei.co/npm/git-listener/)
+
 ###Get started
 ##Install
 Install the module with:
